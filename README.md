@@ -4,17 +4,11 @@ I made this app to learn how to use Flutter and Dart, before this app I hadn't e
 This app is intended to be an audiobook player, that is its basic function.
 As time goes on and I learn more I intend to add more features, but the primary goal of this project was just to make a funcitonal mobile app.
 
-{Provide a description of your app.  Describe how to use the app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
 [Software Demo Video - Google Drive](http://youtube.link.goes.here)
 
 # Development Environment
 
 This app was made in the Dart language using the Flutter SDK, all development was done in Android Studio.
-
-{Describe the programming any libraries that you used.}
 
 Flutter uses plugins to import useful features that other people have already built, I used a few in this project.
 Here are some that I either used or learned from while attempting to use.
@@ -39,7 +33,7 @@ These sites will give you all the knowledge I found in the making of this app, f
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Make it prettier please
+* Actually play from local files
+* List of files on screen you can choose frrom
+* Add greater control over playback
