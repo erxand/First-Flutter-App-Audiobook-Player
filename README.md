@@ -14,7 +14,7 @@ Flutter uses plugins to import useful features that other people have already bu
 Here are some that I either used or learned from while attempting to use.
 
 * [audioplayers](pub.dev/packages/audioplayers)
-    * Enables your app to play mp3 files from local storage.
+    * Enables your app to play mp3 files from local storage. The documentation here proved very useful.
 * [audio_service](pub.dev/packages/audio_service)
     * Enables the audio being played by your app to be controlled from the notification bar, lock screen, etc.
   
